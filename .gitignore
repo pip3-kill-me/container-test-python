@@ -1,3 +1,8 @@
 venv/
 .venv
 .venv/
+container-test-python.code-workspace
+vscode/
+.vscode/
+devcontainer/
+.devcontainer/
